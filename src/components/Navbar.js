@@ -4,7 +4,7 @@ import './Navbar.css'
 function Navbar(){
     return(
     <nav className='Navbar'>
-        <h1>Hello World</h1>
+        <h1>Wild-sons quotes</h1>
     </nav>
     )
 };
